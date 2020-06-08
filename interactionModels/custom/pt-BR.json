@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "change me",
+      "invocationName": "chrome cast",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
